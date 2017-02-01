@@ -1,0 +1,5 @@
+web sehifesinde client side bide server side-dan istifade edirler .server side verici terefli ,client side ise istifadeci terefli proqramlamadir.
+client side daha cox web sehifesinin bir nov isguzarligini,nece desek ,yeni bir nov meselen web sefifesinin parlaqligini artirmaq ve s ist olunur.
+client de istifadecinin gorduyu islerin kodu client terefli kodlardir.client diller o qederde cox deyil .bizim daha cox isletdiyimiz veya ders 
+dede isledeceyimiz java scriptdir.server teref ise gorunmeyen terefdir .yeni her hansi sifaris etdiq de ve ya tel nomu yazanda gonderdikde server vasitesile 
+kodlar yazilir
